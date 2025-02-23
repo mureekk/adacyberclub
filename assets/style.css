@@ -14,6 +14,7 @@ body,
 * {
     box-sizing: border-box;
 }
+
 body {
     background-color: #000;
 }
@@ -536,15 +537,25 @@ footer .bt h1 {
         border-width: 4px;
     }
 
-    footer {
+    main .contact .content img {
+        width: 10em;
         height: auto;
-        padding: 1em 0;
     }
 
     footer .up button {
         width: 2.5em;
         height: 2.5em;
         margin: 0.5em;
+    }
+
+    footer .up button img {
+        width: 100%;
+        height: auto;
+    }
+
+    footer {
+        height: auto;
+        padding: 1em 0;
     }
 
     footer .bt h1 {
