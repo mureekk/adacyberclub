@@ -78,7 +78,7 @@ header .side:nth-child(2) ul li a {
 
 header .side:nth-child(2) ul li a:hover {
     transform: translateY(-1px);
-    color: #d4af37;
+    color: #9a9898;
 }
 
 main {
