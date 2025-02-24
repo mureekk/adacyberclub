@@ -200,6 +200,11 @@ main .meet .team ul li h1 {
     font-size: 30px;
 }
 
+main .meet .team ul li h2 {
+    font-family: "Pixelify Sans", serif;
+    color: white;
+}
+
 main .meet .team ul li p {
     color: #9a9898;
     font-family: "Ubuntu Mono", serif;
